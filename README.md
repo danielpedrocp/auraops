@@ -6,7 +6,7 @@
 AuraOps is a modular system for automated planning and resource allocation that combines geospatial intelligence, machine learning, and operational analytics.
 
 
-**[In Progress]: XNN**, is a neighborhood-based classifier that computes label distributions from nearby events based on spatial proximity based on Cross-Tabulation Analysis. An interactive interface built with Streamlit allows users to explore these results in real time.
+**[In Progress]: XNN**, is a neighborhood-based classifier that computes label distributions from nearby events using spatial proximity, based on Cross-Tabulation Analysis. An interactive interface built with Streamlit allows users to explore these results in real time.
 
 The XNN engine is based on research conducted as part of the author's master's dissertation at FEA-USP.
 
