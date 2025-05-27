@@ -32,6 +32,8 @@ Cunha, D. P. R. (2023). Estimando um indicador de desempenho com machine learnin
 - [ ] Map-based label distribution visualization
 - [ ] BallTree optimization for large-scale inputs
 - [ ] Dashboard theming and ACL
+- [ ] Time series snapshot
+- [ ] Layer Overlapping 
 
 
 ## 📁 Project Main Structure
