@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/images/auraops_logo.png" alt="AuraOps Logo" width="90"/>
+  <img src="assets/images/auroraops_icon.png" alt="AuroraOps Icon" width="90"/>
 </p>
 
-# AuraOps
-AuraOps is a modular system for automated planning and resource allocation that combines geospatial intelligence, machine learning, and operational analytics.
+# AuroraOps
+AuroraOps is a modular system for automated planning and resource allocation that combines geospatial intelligence, machine learning, and operational analytics.
 
 
 **[In Progress]: XNN**, is a neighborhood-based classifier that computes label distributions from nearby events using spatial proximity, based on Cross-Tabulation Analysis. An interactive interface built with Streamlit allows users to explore these results in real time.
@@ -39,9 +39,9 @@ Cunha, D. P. R. (2023). Estimando um indicador de desempenho com machine learnin
 ## 📁 Project Main Structure
 
 ```bash
-auraops/
+auroraops/
 │
-├── auraops/           # Main package
+├── auroraops/           # Main package
 │   ├── main.py        # Entry point (Streamlit app)
 │   ├── engines/       # Core logic (e.g. xnn.py)
 │   ├── schemas/       # Data format definitions (YAML)
